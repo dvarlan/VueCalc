@@ -1,24 +1,7 @@
 # vue-calc
 
-## Project setup
-```
-npm install
-```
+A simple calculator App build with Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Calc](https://user-images.githubusercontent.com/95964411/218473534-5860e934-7e93-405e-864f-2e45181b75d3.png)
