@@ -5,7 +5,7 @@
     </div>
     <div class="buttons">
       <button class="btn"
-        :class="[['C', 'CE', '/', '*', '+', '-', '='].includes(btn) ? btn === '=' ? 'equalsBtn' : 'operatorBtn' : '']"
+        :class="[['C', 'CE', '/', '*', '+', '-', '=', '%'].includes(btn) ? btn === '=' ? 'equalsBtn' : 'operatorBtn' : '']"
         v-for="(btn, i) in buttons" :key="i" @click="onButtonPress(btn)">{{ btn }}</button>
     </div>
     <div class="pastResults" v-if="pastResults.length != 0">
