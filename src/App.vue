@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    Calcul8r
+    Vue Calcul8r
     <CalculatorComp />
   </div>
 </template>
@@ -23,5 +23,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   margin-top: 60px;
+  
+  color: white;
+  font-size: 50px;
 }
 </style>
