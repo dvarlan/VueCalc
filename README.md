@@ -1,6 +1,6 @@
 # vue-calc
 
-A simple calculator App build with Vue.
+A simple calculator App built with Vue.
 
 
 
